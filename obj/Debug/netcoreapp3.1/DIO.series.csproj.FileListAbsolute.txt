@@ -1,0 +1,13 @@
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.exe
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.deps.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.runtimeconfig.dev.json
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.dll
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\bin\Debug\netcoreapp3.1\DIO.series.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csprojAssemblyReference.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfoInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.AssemblyInfo.cs
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.csproj.CoreCompileInputs.cache
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.dll
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.pdb
+C:\Docs Note\Digital Innovation One\Bootcamp LocalizaLabs .NET Developer\DIO.series\obj\Debug\netcoreapp3.1\DIO.series.genruntimeconfig.cache
